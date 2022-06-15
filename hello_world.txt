@@ -1,2 +1,2 @@
 hello world!
-practicing my git and github skills in the terminal on macOS
+practicing my git and github skills in the terminal on macOS.
